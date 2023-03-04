@@ -22,3 +22,7 @@ Este repositório contém os dois códigos do segundo dia do Minicurso de Arduin
 <p> No segundo dia, foram desenvolvidos dois códigos: Um para acender dois LEDs de acordo com a distância do ultrassônico e outro para fazer um robô modelo diferencial fazer o movimento das rodas para várias direções.</p>
 
 <h4>Acesse esses dois códigos neste diretório</h4>
+
+<h4>Circuito montado para o projeto com o sensor ultrassônico</h4>
+<figure><img width="598" alt="image" src="https://user-images.githubusercontent.com/102774638/222924622-eb70f784-9ad3-44e1-9c6a-9e752b53dec3.png"></figure>
+
